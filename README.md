@@ -1,4 +1,4 @@
-# githubrepos
+# Githubrepos
 
 - Simple Flutter Project to fetch the github repos 
 - Unit Test
